@@ -1,2 +1,5 @@
-# DFIR-field-guide
-A practical DFIR knowledge base: IR fundamentals, playbooks, detection queries, scripting, forensics, cloud IR, identity and AD, threat intelligence, AI in IR, communication and reporting, legal and regulatory, case studies, tabletop exercises, labs, and tool reviews. I also share lessons from my PhD research in IR and real-world SOC experience.
+# DFIR Field Guide
+
+A practical DFIR knowledge base covering IR fundamentals, playbooks, forensics, cloud and identity IR, detection queries, scripting, tooling, threat intelligence, AI and IR, communication and reporting, legal and regulatory, case studies, tabletop exercises and hands-on labs.
+
+It also shares lessons from my PhD research in incident response and SOC experience.
